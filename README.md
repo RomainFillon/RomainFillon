@@ -11,4 +11,4 @@ Fillon, Guivarch, Taconet, "Optimal climate policy under tipping risk and tempor
 ---
 
 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/romain-fillon-10b898178/), [mail](mailto:rfillon@protonmail.com)  
-📂 Complete papers are on [website](https://www.linkedin.com/in/romain-fillon-10b898178/)
+📂 Complete and updated papers are on [website](https://www.linkedin.com/in/romain-fillon-10b898178/)
