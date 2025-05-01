@@ -8,10 +8,6 @@ Fillon, Linsenmeier, Wagner, "Climate shift uncertainty and economic damages”,
 Fillon, Guivarch, Taconet, "Optimal climate policy under tipping risk and temporal risk aversion", 2023, [JEEM](https://www.sciencedirect.com/science/article/abs/pii/S0095069623000682)   
 [DSCE](https://github.com/CIRED/DSCE): dynamic stochastic climate-economy model with tipping points, value function decomposition and various SWF. 
 
-
-[RiskPremium](https://github.com/RomainFillon/RiskPremium): Code used for measuring risk premium in a CRRA model.
-- 🌍 [ClimatePolicyModel](https://github.com/RomainFillon/ClimatePolicyModel): Economic modeling of climate policy.
-
 ---
 
 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/romain-fillon-10b898178/), [mail](mailto:rfillon@protonmail.com)  
