@@ -1,5 +1,3 @@
-# Hi, I am Romain Fillon
-
 Welcome to my GitHub profile! I am passionate about economics, modeling, and climate change.
 
 # Research Projects
