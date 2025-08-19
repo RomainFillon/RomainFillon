@@ -2,6 +2,9 @@ Welcome to my GitHub profile! I am passionate about economics, modeling, and cli
 
 # Research Projects
 
+Fillon, Avner, Hallegatte, "Indirect dividends of weather risk management", 2025, working paper upon request  
+[Floods](https://github.com/RomainFillon/floods): calibration of flood risk in Buenos Aires, counterfactual flood policies, dynamic stochastic capital accumulation model 
+
 Fillon, Linsenmeier, Wagner, "Climate shift uncertainty and economic damages”, 2025, [working paper](https://romainfillon.github.io/files/Paper3.pdf)  
 [ClimateShift](https://github.com/RomainFillon/climateshift): spatial and temporal heterogeneity in climate damages (climate data and econometrics).
 
