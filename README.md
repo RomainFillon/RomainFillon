@@ -1,11 +1,11 @@
-Welcome to my GitHub profile! I am passionate about economics, modeling, and climate change.
+Welcome to my GitHub profile! I am passionate about economics, quantitative modeling, and climate change.
 
 # Research Projects
 
-Fillon, Guivarch, "The need for regulation of climate subsystems", 2025, [working paper](https://romainfillon.github.io/files/JMP_risk.pdf)  
+Fillon, Guivarch, "Valuing climate subsystems: an application to the Amazon rainforest", 2025, [working paper](https://romainfillon.github.io/files/JMP_risk.pdf)  
 [Amazon](https://github.com/RomainFillon/subsystem): calibration of Amazon dynamics, dynamic stochastic climate-economy model applied to the Amazon rainforest  
 
-Fillon, Avner, Hallegatte, "Indirect dividends of weather risk management", 2025, working paper upon request  
+Fillon, Avner, Hallegatte, "Risk Premia, Liquidity, and Policy Non-Equivalence in Disaster Management", 2025, working paper upon request  
 [Floods](https://github.com/RomainFillon/floods): calibration of flood risk in Buenos Aires, counterfactual flood policies, dynamic stochastic capital accumulation model 
 
 Fillon, Linsenmeier, Wagner, "Climate shift uncertainty and economic damages”, 2025, [working paper](https://romainfillon.github.io/files/Paper3.pdf)  
