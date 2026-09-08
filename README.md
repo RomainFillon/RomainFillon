@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about economics, quantitative mode
 Fillon, Guivarch, "Valuing climate subsystems: an application to the Amazon rainforest", 2025, [working paper](https://romainfillon.github.io/files/JMP_risk.pdf)  
 [Amazon](https://github.com/RomainFillon/subsystem): calibration of Amazon dynamics, dynamic stochastic climate-economy model applied to the Amazon rainforest  
 
-Fillon, "The price of caution near a collapsing threshold", 2026
+Fillon, "The price of caution near a collapsing threshold", 2026  
 [Tipping](https://github.com/RomainFillon/tipping): calibration to tipping elements
 
 Fillon, Avner, Hallegatte, "Risk Premia, Liquidity, and Policy Non-Equivalence in Disaster Management", 2025, working paper upon request  
